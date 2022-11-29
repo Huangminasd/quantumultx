@@ -1,0 +1,3 @@
+# quantumultx
+
+use-self
